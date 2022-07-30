@@ -97,6 +97,23 @@ module.exports = [
     ],
   },
   {
+    name: "Taimoor Sattar",
+    description: "My name is Taimoor Sattar, a full-stack developer and educator.",
+    url: "https://taimoorsattar.com",
+    twitter: "@taimoorsattar7",
+    tags: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "web development",
+      "reactjs",
+      "gatsby",
+      "sanity",
+      "stripe",
+      "harperdb",
+    ],
+  },
+  {
     name: "Tim Mouskhelichvili",
     description:
       "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
